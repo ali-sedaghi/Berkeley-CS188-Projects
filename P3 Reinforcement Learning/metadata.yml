@@ -1,0 +1,12 @@
+---
+:id: 58706878
+:submitters:
+- :name: علی صداقی ارقون
+  :email: ali.sedaghi@gmail.com
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-08 19:50:30.743218000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-08 11:50:30.743218000 Z
+:status: processed
+:score: 25.0
